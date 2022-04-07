@@ -2,7 +2,7 @@
 
 <div>
   <p align="center">Olá! Tudo bem? 😃️</p>
-  <p align="center">Meu nome é <a href="https://www.linkedin.com/in/edududuribeiro/"><i>Alexsandro Souza</i></a> e eu faço estagio na  <a href="https://www.brq.com"><i>BRQ</i></a>. 😃️</p>
+  <p align="center">Meu nome é <a href="https://www.linkedin.com/in/alexsandro-souza-732b89236/"><i>Alexsandro Souza</i></a> e eu faço estagio na  <a href="https://www.brq.com"><i>BRQ</i></a>. 😃️</p>
  
   </a><br>
   <p align="center">E quero te pedir para se inscrever no botão aqui abaixo e vir codar comigo, tua contribuição será muito bem vinda, vlw mesmo! 😉️</p>
