@@ -16,7 +16,7 @@
 <p align="center"><i>"A Trybe é uma escola do futuro para qualquer pessoa que deseja construir uma carreira de sucesso em tecnologia. Como estudante a pessoa ainda tem a opção de pagar os estudos apenas quando estiver formada e com um bom trabalho."</i></p> -->
 
 <div align="center">
-  <a href="https://github.com/duribeiro">
+  <a href="https://github.com/NitroAS">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=NitroAS&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NitroAS&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
