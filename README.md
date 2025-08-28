@@ -3,7 +3,7 @@
 
 <div>
   <p align="center">Olá! Tudo bem? 😃️</p>
-  <p align="center">Meu nome é <a href="https://www.linkedin.com/in/alexsandro-dev/"><i>Alexsandro Souza</i></a> e eu faço Análista de Sistemas na  <a href="https://www.brq.com"><i>BRQ</i></a>. 😃️</p>
+  <p align="center">Meu nome é <a href="https://www.linkedin.com/in/alexsandro-dev/"><i>Alexsandro Souza</i></a> e eu sou Análista de Sistemas na  <a href="https://www.brq.com"><i>BRQ</i></a>. 😃️</p>
  
   </a><br>
   
